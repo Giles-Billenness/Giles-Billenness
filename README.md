@@ -35,11 +35,11 @@
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/tensorflow_logo_icon_144808.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><br /><br />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
 
-<img align="left" alt="Vagrant" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vagrant-5-1174986.png" />
+<br /><img align="left" alt="Vagrant" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vagrant-5-1174986.png" />
 <img align="left" alt="Mac" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/apple-512.png" />
 <img align="left" alt="Docker" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-5-569553.png" />
