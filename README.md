@@ -32,8 +32,8 @@
 
 <img align="left" alt="RubyOnRails" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://png2.cleanpng.com/sh/7c1bdce7f9bfe8c08b113db55289826a/L0KzQYm3VsI6N6Rnj5H0aYP2gLBuTgRmdqR0ith1b4ewd7F2hBxmNZN3edt3LX3kc7nwjvUudJZmitDybnewdLbskL1tbZJ3Rd9qY3jsfra0jPViep9uhtk2NXK2RbWAg8Bmamo2faQ3MUG7QIeAWcIyPWQ1SqcAMkm5SYe7Wb5xdpg=/kisspng-tensorflow-google-brain-machine-learning-deep-lear-machine-learning-5b35d7c0eb91e2.1180679215302552969649.png" />
-<img align="left" alt="Flask" width="26px" src="https://png2.cleanpng.com/sh/ebf9bed9a6b7aab5c619ac121918c8e7/L0KzQYm3WMI6N5Z0kJH0aYP2gLBuTfZtaaRwReJEdHjyfn7AhfIubqNmhddCb4LuPcPskQJme5ZzjNN9aXBxcb20kCRifJYyft5qc3uwg8XwgBtsbaMyTdQDNnbodbS5UsRnamozSas9Mke2QIi4VcM2PWg4T6Y5MUSzRXB3jvc=/kisspng-flask-python-web-framework-representational-state-flask-stickker-5b86feec224fb9.1942730715355737401405.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/tensorflow_logo_icon_144808.png" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
