@@ -26,6 +26,7 @@
 
 <img align="left" alt="Linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" />
 
+<br />
 
 <img align="left" alt="Haskell" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-haskell_icon-icons.com_50793.png" />
 <img align="left" alt="Prolog" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png" />
@@ -36,6 +37,7 @@
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br />
 
 <img align="left" alt="Mac" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/apple-512.png" />
 <img align="left" alt="Vagrant" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/vagrant-5-1174986.png" />
