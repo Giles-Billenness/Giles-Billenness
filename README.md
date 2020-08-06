@@ -35,7 +35,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/tensorflow_logo_icon_144808.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> <br />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><br />
 
 
 
