@@ -1,9 +1,9 @@
 ### Hello! 
 
 ## I'm Giles, a Student, Developer, previous president of the computing society @ The University of Surrey and avid cook!
-- 👁️🐝Ⓜ️ I’m currently working for IBM on my placement year
+- 👁️🐝Ⓜ️ Last year I was working for IBM on my placement year
 - 📚 And Im trying to learn a bit of everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects & learn more about bleeding edge industry practices
+- 🥅 2022 Goals: Contribute more to Open Source projects & learn more about bleeding edge industry practices
 
 ### Connect with me:
 
