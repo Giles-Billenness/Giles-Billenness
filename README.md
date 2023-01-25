@@ -48,10 +48,10 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness)](https://github.com/Giles-Billenness/github-readme-stats)
-
+<img align="left" alt="Giles' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
 ---
 
 
-<img align="left" alt="Giles' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
+
 
 [linkedin]: https://www.linkedin.com/in/giles-billenness/
