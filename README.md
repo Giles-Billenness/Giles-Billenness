@@ -8,7 +8,7 @@
 
 ### 🌐 Check out my projects website (in production): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
 
-## <h2 align="left" id="heading">⌨️ Languages and Tools:</h2>
+## <h2 align="center" id="heading">⌨️ Languages and Tools:</h2>
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
@@ -29,11 +29,9 @@
 ![](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/ML-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=opencv&logoColor=white)
-
+![](https://img.shields.io/badge/ML-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
@@ -42,7 +40,7 @@
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 
-## <h2 align="left" id="heading">&#x1f4c8; GitHub Stats</h2>
+## <h2 align="center" id="heading">&#x1f4c8; GitHub Stats</h2>
 
 <a><img align="center" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
