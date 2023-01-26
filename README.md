@@ -1,19 +1,15 @@
-### Hello! 
+## <h2 align="center" id="heading">Hello, I'm Giles! 👨‍💻</h3>
 
-## I'm Giles, Developer, previous president of the computing society @ The University of Surrey and avid cook!
+### <h3 align="center" id="sub-heading">I'm a Software Developer @ IBM, former president of the computing society @ The University of Surrey and avid cook!</h3>
+
 - 👁️🐝Ⓜ️ Currently working for IBM, developing Z features in IBM cloud
 - 📚 And Im trying to learn a bit of everything 🤣
 - 🥅 Current Goals: Contribute more to Open Source projects & learn more about bleeding edge industry practices
 
-## Check out my projects website (in production): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
+### 🌐 Check out my projects website (in production): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
 
-### Connect with me:
-
-[<img align="left" alt="GilesBillenness | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
+### ⌨️ Languages and Tools:
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -47,11 +43,12 @@
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-5-569553.png" />
 <img align="left" alt="Ansible" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" /><br />
 
----
 
-<a><img align="center" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
+### &#x1f4c8; GitHub Stats
+---
+<a><img align="center" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a><img align="center" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact&langs_count=8&card_width=325" />
+<a><img align="center" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact&langs_count=8&hide_border=true&card_width=325&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
