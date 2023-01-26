@@ -49,11 +49,10 @@
 
 ---
 
-<a><img align="center" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact" />
-</a>
 <a><img align="center" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
 </a>
-
+<a><img align="center" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact&langs_count=8" />
+</a>
 
 
 
