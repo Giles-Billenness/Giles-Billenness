@@ -1,6 +1,6 @@
 ## <h2 align="center" id="heading">Hello, I'm Giles! 👨‍💻</h3>
 
-### <h3 align="center" id="sub-heading">I'm a Software Developer @ IBM, former president of the computing society @ The University of Surrey and avid cook!</h3>
+### <h3 align="center" id="sub-heading">I'm a Software Developer @ IBM, former president of the computing society @ University of Surrey and avid cook!</h3>
 
 - 👁️🐝Ⓜ️ Currently working for IBM, developing Z features in IBM cloud
 - 📚 And Im trying to learn a bit of everything 🤣
