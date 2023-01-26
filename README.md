@@ -51,7 +51,7 @@
 
 <a><img align="left" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact" />
 </a>
-<a><img align="left" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
+<a><img align="right" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true" />
 </a>
 
 
