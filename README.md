@@ -6,7 +6,7 @@
 - 📚 And Im trying to learn a bit of everything 🤣
 - 🥅 Current Goals: Contribute more to Open Source projects & learn more about bleeding edge industry practices
 
-### 🌐 Check out my projects website (in production): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
+### 🌐 Check out my portfolio website (in production): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
 
 ## <h2 align="center" id="heading">⌨️ Languages and Tools:</h2>
 
