@@ -46,6 +46,12 @@
 
 ## <h2 align="center" id="heading">&#x1f4c8; GitHub Stats</h2>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+
+</div>
+
 <a><img align="center" alt="Giles' Github Stats Contributions" src="https://github-readme-stats.vercel.app/api?username=Giles-Billenness&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a><img align="center" alt="Giles' Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giles-Billenness&layout=compact&langs_count=8&hide_border=true&card_width=325&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
