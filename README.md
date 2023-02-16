@@ -49,8 +49,8 @@
 <div align="center">
 
 <!-- ![](https://hit.yhype.me/github/profile?user_id=56511720) -->
-![](https://komarev.com/ghpvc/?username=Giles-Billenness&style=flat)
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Giles-Billenness&left_color=grey&right_color=blue) -->
+<!-- ![](https://komarev.com/ghpvc/?username=Giles-Billenness&style=flat) -->
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Giles-Billenness&left_color=grey&right_color=blue)
 
 </div>
 
