@@ -1,10 +1,10 @@
 ## <h2 align="center" id="heading">Hello, I'm Giles! 👨‍💻</h3>
 
-### <h3 align="center" id="sub-heading">I'm a Software Developer @ IBM, former president of the computing society @ University of Surrey and avid cook!</h3>
+### <h3 align="center" id="sub-heading">I'm a Machine Learning Researcher & Software Developer, formerly @ IBM, and former president of the computing society @ University of Surrey. I'm also an avid cook!</h3>
 
-- 👁️🐝Ⓜ️ Currently working for IBM, developing Z features in IBM cloud
-- 📚 And Im trying to learn a bit of everything 🤣
-- 🥅 Current Goals: Contribute more to Open Source projects & learn more about bleeding edge industry practices
+- 👁️ 🤖 🏥 Currently helping develop transformer models for medical image analysis and for other domains.
+- 📚 Always eager to learn new tools, architectures and improve my workflow.
+- 🥅 Current Goals: Contribute more to open-source projects and stay updated with the latest industry practices.
 
 ### 🌐 Check out my portfolio website (work in progress): [Giles-Billenness.github.io](https://giles-billenness.github.io/)
 
